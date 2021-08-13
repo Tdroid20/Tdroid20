@@ -5,8 +5,8 @@
 
 <p align="center">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Tdroid20&show_icons=true&custom_title=Tdroid2.0%20Droid%20Tech%20Company®&title_color=35ff00&bg_color=000&text_color=11bbb2&count_private=true&icon_color=35ff00&border_color=35ff00" alt="Tdroid2.0 graficos" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tdroid20&layout=compact&title_color=35ff00&bg_color=000&text_color=11bbb2&count_private=true&icon_color=11bbb2&border_color=35ff00&show_icons=true&custom_title=Linguagens mais usadas" alt="Tdroid graficos " />
+    <img src="https://github-readme-stats.vercel.app/api?username=Tdroid20&show_icons=true&custom_title=Tdroid2.0%20Droid%20Tech%20Company®&title_color=35ff00&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=35ff00&border_color=161B22" alt="Tdroid2.0 graficos" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tdroid20&layout=compact&title_color=35ff00&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=11bbb2&border_color=161B22&show_icons=true&custom_title=Linguagens mais usadas" alt="Tdroid graficos " />
 
 </p>
 <hr>
