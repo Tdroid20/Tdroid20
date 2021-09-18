@@ -11,9 +11,9 @@
 </p>
 <hr>
 
-🌐┃Parceiro do bot: <a href="https://discord.gg/aevolution">animes evolution<a/>
+🌐┃Parceiro do bot: <a href="https://discord.gg/aevolution">Animes Evolution<a/>
 <br>
-🤖┃Highframe:<a href="https://discord.com/oauth2/authorize?client_id=821548564421148692&permissions=2147483647&scope=bot%20applications.commands%20identify">clique aqui para adicionar<a>
+🤖┃Highframe: <a href="https://discord.com/oauth2/authorize?client_id=821548564421148692&permissions=2147483647&scope=bot%20applications.commands%20identify">Clique aqui para adicionar</a>
  <br>
   🏰┃Meu servidor: <a href="https://discord.gg/NMv9a2dzHb">Clique aqui para fazer parte do reino</a>
 
