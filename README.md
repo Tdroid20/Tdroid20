@@ -11,19 +11,21 @@
 </p>
 <hr>
 
-🌐┃Parceiro do bot: <a href="https://discord.gg/aevolution">Animes Evolution<a/>
+🌐┃Parceiro do bot: <a href="https://discord.gg/animesbrasil">Animes Evolution<a/>
 <br>
 🤖┃Highframe: <a href="https://discord.com/oauth2/authorize?client_id=821548564421148692&permissions=2147483647&scope=bot%20applications.commands%20identify">Clique aqui para adicionar</a>
  <br>
   🏰┃Meu servidor: <a href="https://discord.gg/NMv9a2dzHb">Clique aqui para fazer parte do reino</a>
 
 <br>
-    <h1>🎓Conhecimentos e estudos📚</h1>
+    <h1>📑 Conhecimentos</h1>
 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-    
+    <h1>📚 estudos </h1>
+<img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>   
+ <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+
 <h1>🏗️Plataformas🏭</h1>
 <div>
 <a href="https://discord.gg/NMv9a2dzHb"> <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/> </div> 
