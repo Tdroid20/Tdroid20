@@ -24,23 +24,29 @@
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <h1>📚 estudos </h1>
-<img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>   
+<img alt="ReactJs" src="https://img.shields.io/badge/ReactJs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<h1>🏗️Plataformas🏭</h1>
-<div>
-<a href="https://discord.gg/NMv9a2dzHb"> <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/> </div> 
-<div>
+<h1>🏗️Redes Sociais</h1>
+
+<a href="https://discord.gg/NMv9a2dzHb"> 
+<img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>    
+ <img src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white">
 <a href="https://youtube.com/c/tdroid20youtuber">
 <img alt="YouTube" src="https://img.shields.io/badge/T droid 2.0-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-</div>
-    <h1>🖥️IDES utilizadas📱</h1>
+    <h1>🖥️IDES utilizada</h1>
     <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Replit&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <h1>Banco de dados utilizados</h1>
+    <h1>💾 Banco de dados utilizados</h1>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<h1>💿Sistema operacional atual💾</h1>
-    <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <h6>raramente usados</h6> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<h1>🌐 Host</h1>
+        <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+    
+<h1>💿Sistema operacional atual</h1>
+    <img alt="Windows 11" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <h6>raramente usados</h6> 
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 
 <!-- BLOG-POST-LIST:END -->
