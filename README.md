@@ -1,13 +1,3 @@
-<head>
-<style>
-        .body {
-            background-color: #161B22;
-        }
-        .titles {
-            color: #35ff00;
-        }
-</style>
-<script src="../scripts/copy.js"></script>
 </head>
 <!-- BLOG-POST-LIST:START -->
 <p align="center">
@@ -39,7 +29,7 @@
 </p>
 
 <br>
-<h1 class="titles">📑┃Conhecimentos</h1>
+<h1 style="color:#35ff00;">📑┃Conhecimentos</h1>
 <div styles="display: flex;">
     <img alt="JavaScript"
             src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -54,7 +44,7 @@
     <img alt="ReactJs"
             src="https://img.shields.io/badge/ReactJs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div>
-<h1 class="titles">📚┃estudos </h1>
+<h1 style="color:#35ff00;">📚┃estudos </h1>
 <p>Não estou estudando nada no momento</p>
 <h1 class="titles">🏗️┃Redes Sociais</h1>
 
