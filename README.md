@@ -1,3 +1,4 @@
+<head>
 <style>
         .body {
             background-color: #161B22;
@@ -7,6 +8,7 @@
         }
 </style>
 <script src="../scripts/copy.js"></script>
+</head>
 <!-- BLOG-POST-LIST:START -->
 <p align="center">
     <img src="https://discord.c99.nl/widget/theme-4/570700558533656586.png" />
