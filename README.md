@@ -48,20 +48,19 @@
 <p>Não estou estudando nada no momento</p>
 <h1 class="titles">🏗️┃Redes Sociais</h1>
 
-<a href="https://discord.gg/NMv9a2dzHb">
-    <img alt="Discord"
-            src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+<div>
+    <a href="https://discord.gg/NMv9a2dzHb">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+        <img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white"> 
+    <a href="https://youtube.com/c/tdroid20youtuber">
+        <img alt="YouTube" src="https://img.shields.io/badge/T droid 2.0-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+    </a>
+    <a href="https://steamcommunity.com/id/Tdroid20/">
+        <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
-<a onCLick="copyToClipBoard()">
-    <img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white">
-</a>
-<a href="https://youtube.com/c/tdroid20youtuber">
-    <img alt="YouTube"
-            src="https://img.shields.io/badge/T droid 2.0-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
-<a href="https://steamcommunity.com/id/Tdroid20/">
-    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
-</a>
+</div
+
 <h1 class="titles">🖥️┃IDES utilizada</h1>
 <img alt="Repl.it"
         src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Replit&logoColor=white" />
