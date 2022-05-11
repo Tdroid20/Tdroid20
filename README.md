@@ -65,6 +65,8 @@
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
 
 <h1 class="titles">💿┃Sistema operacional atual</h1>
-<img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<a href="https://www.microsoft.com/pt-br/software-download/windows11">
+    <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
 
 <!-- BLOG-POST-LIST:END -->
