@@ -53,6 +53,9 @@
     <a href="https://youtube.com/c/tdroid20youtuber">
         <img alt="YouTube" src="https://img.shields.io/badge/T droid 2.0-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
     </a>
+    <a href="https://www.twitch.tv/tdroid20">
+            <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" />
+    </a>
     <a href="https://steamcommunity.com/id/Tdroid20/">
         <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
