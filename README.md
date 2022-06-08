@@ -39,7 +39,10 @@
     <img alt="ReactJs" src="https://img.shields.io/badge/ReactJs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div>
 <h1>📚┃estudos </h1>
-<p>Não estou estudando nada no momento</p>
+    <div>
+          <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+          <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    </div>
 <h1>🏗️┃Redes Sociais</h1>
 
 <div>
