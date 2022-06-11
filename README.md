@@ -24,7 +24,7 @@
         aqui para adicionar</a>
 </p>
 <p>
-    🏰┃Meu servidor: <a href="https://discord.gg/NMv9a2dzHb">Clique aqui para fazer parte do reino</a>
+    🏰┃Meu servidor: <a href="https://discord.gg/WzJAS9eVqp">Clique aqui para fazer parte do reino</a>
 </p>
 </div
 
