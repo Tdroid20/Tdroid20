@@ -29,6 +29,14 @@
 </div
 
 <br>
+    <h1>🫰🏻┃Gostaria de apoiar meus projetos?</h1>
+        <p>Se o Senhor(a) deseja apoiar meus projetos futuros, clique em um dos metodos abaixo</p>
+    <div>
+        <a href="https://www.paypal.com/donate/?business=MP3KAPJDTMCRL&no_recurring=0&item_name=Ajude+nos+projetos+do+Tdroid&currency_code=BRL">
+            <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+        </a>
+    </div>
+<br>
 <h1>📑┃Conhecimentos</h1>
 <div>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -62,7 +70,11 @@
 </div
 <br>
 <h1>🖥️┃IDES utilizada</h1>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <div>
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+        <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
+        <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+    </div>
     
 <h1>💾┃Banco de dados utilizados</h1>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
