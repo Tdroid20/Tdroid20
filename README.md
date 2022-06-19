@@ -35,6 +35,9 @@
         <a href="https://www.paypal.com/donate/?business=MP3KAPJDTMCRL&no_recurring=0&item_name=Ajude+nos+projetos+do+Tdroid&currency_code=BRL">
             <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
         </a>
+        <a href="https://www.patreon.com/Tdroid">
+            <img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+        </a>
     </div>
 <br>
 <h1>📑┃Conhecimentos</h1>
