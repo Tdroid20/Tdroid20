@@ -61,7 +61,7 @@
         <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
         <img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white"> 
-    <a href="https://youtube.com/c/tdroid20youtuber">
+    <a href="https://www.youtube.com/Tdroid20">
         <img alt="YouTube" src="https://img.shields.io/badge/T droid 2.0-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
     </a>
     <a href="https://www.twitch.tv/tdroid20">
