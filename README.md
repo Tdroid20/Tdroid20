@@ -16,11 +16,11 @@
 
 <div>
     <p>
-    🌐┃Parceiro do bot: <a href="https://discord.gg/animesbrasil">Animes Evolution</a>
+    🌐┃Parceiro do bot: <a href="https://discord.gg/jzCDMUt8kG">Animes Evolution</a>
 </p>
 <p>
     🤖┃Highframe: <a
-        href="https://discord.com/oauth2/authorize?client_id=901168812563525702&permissions=2147483647&scope=bot%20applications.commands">Clique
+        href="https://discord.com/api/oauth2/authorize?client_id=901168812563525702&permissions=8&scope=applications.commands+bot">Clique
         aqui para adicionar</a>
 </p>
 <p>
