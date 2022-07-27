@@ -29,7 +29,7 @@
 </div
 
 <br>
-    <h1>🫰🏻┃Gostaria de apoiar meus projetos?</h1>
+    <h1>🤝️┃Gostaria de apoiar meus projetos?</h1>
         <p>Se o Senhor(a) deseja apoiar meus projetos futuros, clique em um dos metodos abaixo</p>
     <div>
         <a href="https://www.paypal.com/donate/?business=MP3KAPJDTMCRL&no_recurring=0&item_name=Ajude+nos+projetos+do+Tdroid&currency_code=BRL">
