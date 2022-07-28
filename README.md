@@ -86,8 +86,8 @@
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
 
 <h1 class="titles">💿┃Sistema operacional atual</h1>
-<a href="https://www.microsoft.com/pt-br/software-download/windows11">
-    <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<a href="https://releases.ubuntu.com/20.04/ubuntu-20.04.4-live-server-amd64.iso.torrent?_ga=2.224752474.1314283038.1659032319-256774810.1659032319">
+    <img alt="Ubuntu 20.04" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </a>
 
 <!-- BLOG-POST-LIST:END -->
