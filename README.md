@@ -52,7 +52,7 @@
 </div>
 <h1>📚┃estudos </h1>
     <div>
-          
+          Null
     </div>
 <h1>🏗️┃Redes Sociais</h1>
 
