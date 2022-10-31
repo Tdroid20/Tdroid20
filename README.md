@@ -77,6 +77,7 @@
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
         <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
         <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+        <img alt="Xcode" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     </div>
     
 <h1>💾┃Banco de dados utilizados</h1>
@@ -87,7 +88,7 @@
 
 <h1 class="titles">💿┃Sistema operacional atual</h1>
 <a href="https://releases.ubuntu.com/20.04/ubuntu-20.04.4-live-server-amd64.iso.torrent?_ga=2.224752474.1314283038.1659032319-256774810.1659032319">
-    <img alt="Ubuntu 20.04" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img alt="MacOs" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
 </a>
 
 <!-- BLOG-POST-LIST:END -->
