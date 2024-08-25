@@ -1,6 +1,16 @@
 </head>
 <!-- BLOG-POST-LIST:START -->
 <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=006908C8&center=true&vCenter=true&repeat=false&width=435&lines=Hi+Dev+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6600F7&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9A%9C%EF%B8%8F+Skyrus+Software+Company+%E2%9A%9C%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F70000&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9A%9C%EF%B8%8F+Tdroid+Developer+%E2%9A%9C%EF%B8%8F;%E2%9A%9C%EF%B8%8F++iOS+Developer++%E2%9A%9C%EF%B8%8F;%E2%9A%9C%EF%B8%8F++I+make+Bots+and+Software+around+there++%E2%9A%9C%EF%B8%8F;%E2%9A%9C%EF%B8%8F++Full-Stack+Developer++%E2%9A%9C%EF%B8%8F;%E2%9A%9C%EF%B8%8F++Tdroid+Developer++%E2%9A%9C%EF%B8%8F" alt="Typing SVG" /></a>
+</p>
+
+<hr>
+
+<p align="center">
     <img src="https://discord.c99.nl/widget/theme-4/570700558533656586.png" />
 </p>
 
